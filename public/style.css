@@ -1,0 +1,30 @@
+.title {
+    border-bottom: 5px;
+}
+.action {
+    display: flex;
+    gap: 4px;
+}
+.todo-list {
+    display: flex;
+    gap: 5px;
+}
+.todo-item {
+    padding: 10px;
+    border: 1px solid gray;
+
+    width: 200px;
+}
+.btn {
+    background-color: chartreuse;
+    padding: 3px 10px;
+}
+.input {
+    margin-bottom: 5px;
+}
+.input input {
+    display: block;
+}
+.error {
+    color: red;
+}
